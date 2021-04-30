@@ -744,7 +744,7 @@ select {
  .carousel-inner .carousel-item.active .d-block.mx-auto {
   width: 200px;
   height: 700px;
-	 padding-top: 100%;
+	 padding-top: 1000%;
 }
   .helpline {
     width: 100%;
