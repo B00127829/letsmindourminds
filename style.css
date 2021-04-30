@@ -742,9 +742,9 @@ select {
     padding-top: 3%;
   }
  .carousel-inner .carousel-item.active .d-block.mx-auto {
-  width: 450px;
-  height: 800px;
-	 padding-top: 90%;
+  width: 300px;
+  height: 900px;
+	 padding-top: 120%;
 }
   .helpline {
     width: 100%;
